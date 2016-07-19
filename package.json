@@ -1,0 +1,25 @@
+{
+  "name": "scroll-handler",
+  "version": "0.1.0",
+  "description": "Smooth scroll handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrykuzmenkov/scroll-handler.git"
+  },
+  "keywords": [
+    "scroll",
+    "handler",
+    "smooth",
+    "reflow"
+  ],
+  "author": "Dmitry Kuzmenkov <dmitry@wagh.ru> (http://dmitrykuzmenkov.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitrykuzmenkov/scroll-handler/issues"
+  },
+  "homepage": "https://github.com/dmitrykuzmenkov/scroll-handler#readme"
+}
